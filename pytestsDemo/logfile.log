@@ -1,0 +1,8 @@
+2023-01-16 10:41:08,491 : INFO : test_editProfile : Lokesh
+2023-01-16 10:41:08,491 : INFO : test_editProfile : Darne
+2023-01-16 10:42:33,044 : INFO : test_editProfile : Lokesh
+2023-01-16 10:42:33,044 : INFO : test_editProfile : Darne
+2023-01-16 10:42:33,048 : CRITICAL : pytestsDemo.test_logging : Critical issue
+2023-01-16 10:43:27,646 : INFO : test_editProfile : Lokesh
+2023-01-16 10:43:27,646 : INFO : test_editProfile : Darne
+2023-01-16 10:43:27,652 : CRITICAL : pytestsDemo.test_logging : Critical issue
